@@ -1,4 +1,3 @@
-<img width="267" height="150" alt="instinctflash-runtime" src="https://github.com/user-attachments/assets/0fba048c-f002-4adf-b421-384008fedefd" />
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cb04e3e1-363f-46ba-890e-dda0d4c00fd7" width="620" alt="General Instinct">
 </p>
