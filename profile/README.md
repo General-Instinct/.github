@@ -19,7 +19,7 @@
 
 ## What's new 🔥
 
-- **[InstinctFlash](https://github.com/General-Instinct/InstinctFlash)** — High-performance serving for eight robotics model families. In our internal runtime, LingBot-VA at 2V/4A runs up to **23× faster on H100** and **20× faster on Jetson Thor**. The open-source framework is now available—give it a try!
+- **[InstinctFlash](https://github.com/General-Instinct/InstinctFlash)** — High-performance serving for eight robotics model families. In our internal runtime, LingBot-VA at **2V/4A** achieves **27.34× speedup on H100 with NUMERIC kernels** and **38.66× on Jetson Thor with FP8**, versus upstream **25V/50A**, measured in early episodes. The open-source framework is now available—give it a try!
 - **InstinctCompress** — Mixed-precision, quantization-aware distillation for robotics models, reducing model size by up to **5.87×** with bit-exact actions on π₀.₅. Deployable across the Jetson Orin family for real-time inference at the edge.
 - **[General Instinct at YC Paper Club](https://www.linkedin.com/feed/update/urn:li:ugcPost:7491874698306248704/)** — We presented our acceleration framework for world action models and discussed what comes after VLAs.
 
