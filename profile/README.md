@@ -31,7 +31,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/General-Instinct/InstinctFlash">
         <img
-          src="https://github.com/user-attachments/assets/0fba048c-f002-4adf-b421-384008fedefd"
+          src="https://raw.githubusercontent.com/General-Instinct/.github/main/profile/assets/instinctflash.gif"
           width="100%"
           alt="InstinctFlash runtime animation"
         >
@@ -58,7 +58,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/General-Instinct/InstinctRazor">
         <img
-          src="https://github.com/user-attachments/assets/26c122fb-0072-44be-9317-61340ebbca5d"
+          src="https://raw.githubusercontent.com/General-Instinct/.github/main/profile/assets/instinctcompress.gif"
           width="100%"
           alt="InstinctRazor compression animation"
         >
