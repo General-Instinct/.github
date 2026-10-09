@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cb04e3e1-363f-46ba-890e-dda0d4c00fd7" width="520" alt="General Instinct">
 </p>
