@@ -8,7 +8,23 @@
 
 Bringing frontier robotics models into the real world.
 
-[Website](https://general-instinct.com/) · [X](https://x.com/gen_instinct) · [Hugging Face](https://huggingface.co/General-Instinct) · [YC P26](https://www.ycombinator.com/companies/general-instinct) · [Contact](mailto:founders@general-instinct.com)
+<p align="center">
+  <a href="https://general-instinct.com/">
+    <img src="https://img.shields.io/badge/Website-general--instinct.com-000000.svg" alt="Website">
+  </a>
+  <a href="https://x.com/gen_instinct">
+    <img src="https://img.shields.io/badge/X-%40gen__instinct-000000.svg" alt="X">
+  </a>
+  <a href="https://huggingface.co/General-Instinct">
+    <img src="https://img.shields.io/badge/Hugging%20Face-General--Instinct-FFD21E.svg" alt="Hugging Face">
+  </a>
+  <a href="https://www.ycombinator.com/companies/general-instinct">
+    <img src="https://img.shields.io/badge/Y%20Combinator-P26-orange.svg" alt="YC P26">
+  </a>
+  <a href="mailto:founders@general-instinct.com">
+    <img src="https://img.shields.io/badge/Contact-founders%40general--instinct.com-000000.svg" alt="Contact">
+  </a>
+</p>
 
 </div>
 
@@ -24,7 +40,7 @@ Deploying frontier robotics models for autonomous AI hardware disassembly in col
 
 The robot autonomously removes retaining bars, riser boards, and fans with just **1.5 hours of post-training**.
 
-[Explore deployment ↗](https://x.com/gen_instinct)
+[Watch deployment demo ↗](https://x.com/gen_instinct)
 
 <br>
 
